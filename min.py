@@ -1,0 +1,8 @@
+m=int(input())
+n=int(input())
+o=int(input())
+p=int(input())
+q=int(input())
+r=int(input())
+min=min(m,n,o,p,q,r)
+print(min)
